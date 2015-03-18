@@ -246,6 +246,14 @@ nav {
     height:137px;
 }
 
+.staff-img-head {
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size:auto;
+    width:193px;
+    height:137px;
+}
+
 .staff-member-text {
     font-size:30px;
     position:absolute;

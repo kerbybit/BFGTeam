@@ -55,15 +55,18 @@
             
             
             <div class="staff-block parallax" style="background-image:url('./back1.jpg');" data-img-width="1600" data-img-height="1064" data-diff="100">
-                <div class="staff-title"><div class="staff-title-text"><strong>Omoiyari</strong></div></div>
+                <div class="staff-title"><div class="staff-title-text"><strong>King</strong></div></div>
                 <div class="staff-block-in container">
                     <div class="staff-member">
                         <div class="staff-img" style="background-image:url('./staff-images/hyperdron.png');"></div>
                         <div class="staff-member-text">Hyperdron</div>
                         <div class="staff-member-disc">*disappears*</div>
                     </div>
+                </div>
+                <div>
+                    <div class="staff-title"><div class="staff-title-text"><strong>Regent</strong></div></div><br><br>
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/.png');"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=Ecolsson');"></div>
                         <div class="staff-member-text">Ecolsson</div>
                         <div class="staff-member-disc">
                             <?php
@@ -72,15 +75,15 @@
                             ?>
                         </div>
                     </div>
-                </div>
+                </div><br>
             </div>
             
             
             <div class="staff-block parallax" style="background-image:url('./back2.jpg');" data-img-width="1600" data-img-height="1064" data-diff="100">
-                <div class="staff-title"><div class="staff-title-text"><strong>Tanoshi</strong></div></div>
+                <div class="staff-title"><div class="staff-title-text"><strong>Dukes</strong></div></div>
                 <div class="staff-block-in container">
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/.png');"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=suppusmac');"></div>
                         <div class="staff-member-text">suppusmac</div>
                         <div class="staff-member-disc">pay2win</div>
                     </div>
@@ -114,7 +117,7 @@
             
             
             <div class="staff-block parallax" style="background-image:url('./back3.jpg');" data-img-width="1600" data-img-height="1064" data-diff="100">
-                <div class="staff-title"><div class="staff-title-text"><strong>Kantoku</strong></div></div>
+                <div class="staff-title"><div class="staff-title-text"><strong>Knights</strong></div></div>
                 <div class="staff-block-in container">
                     <div class="staff-member">
                         <div class="staff-img" style="background-image:url('./staff-images/krazy8888.png');"></div>
@@ -123,56 +126,50 @@
                     </div>
                     
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/');"></div>
-                        <div class="staff-member-text">#hype</div>
-                        <div class="staff-member-disc"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=dnovantrix');"></div>
+                        <div class="staff-member-text">dnovantrix</div>
+                        <div class="staff-member-disc">i dno</div>
                     </div>
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/');"></div>
-                        <div class="staff-member-text">#hype</div>
-                        <div class="staff-member-disc"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=Sexyandikit');"></div>
+                        <div class="staff-member-text">Sexyandikit</div>
+                        <div class="staff-member-disc">lenny face</div>
                     </div>
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/');"></div>
-                        <div class="staff-member-text">#hype</div>
-                        <div class="staff-member-disc"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=zech');"></div>
+                        <div class="staff-member-text">zech</div>
+                        <div class="staff-member-disc">African deer</div>
                     </div>
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/');"></div>
-                        <div class="staff-member-text">#hype</div>
-                        <div class="staff-member-disc"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=Jennifur');"></div>
+                        <div class="staff-member-text">Jennifur</div>
+                        <div class="staff-member-disc">OMFG</div>
                     </div>
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/');"></div>
-                        <div class="staff-member-text">#hype</div>
-                        <div class="staff-member-disc"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=DerpedGaming');"></div>
+                        <div class="staff-member-text">Derped</div>
+                        <div class="staff-member-disc">the derped</div>
                     </div>
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/');"></div>
-                        <div class="staff-member-text">#hype</div>
-                        <div class="staff-member-disc"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=AmyTheMudkip');"></div>
+                        <div class="staff-member-text">Amy</div>
+                        <div class="staff-member-disc">mudkip</div>
                     </div>
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/');"></div>
-                        <div class="staff-member-text">#hype</div>
-                        <div class="staff-member-disc"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=Hakkstar');"></div>
+                        <div class="staff-member-text">Hakkstar</div>
+                        <div class="staff-member-disc">HAKKS!!</div>
                     </div>
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/');"></div>
-                        <div class="staff-member-text">#hype</div>
-                        <div class="staff-member-disc"></div>
+                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=spschmidt27615');"></div>
+                        <div class="staff-member-text">spschmidt</div>
+                        <div class="staff-member-disc">numbers</div>
                     </div>
                     <div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/');"></div>
-                        <div class="staff-member-text">#hype</div>
-                        <div class="staff-member-disc"></div>
+                        <div class="staff-img" style="background-image:url('http://media.giphy.com/media/mwppNpnjxpwCA/giphy.gif');"></div>
+                        <div class="staff-member-text">Cham</div>
+                        <div class="staff-member-disc">just cham</div>
                     </div>
-                    
-					<!--<div class="staff-member">
-                        <div class="staff-img" style="background-image:url('./staff-images/Temppo.png');"></div>
-                        <div class="staff-member-text">Temppo</div>
-                        <div class="staff-member-disc">#hype</div>
-                    </div>-->
                 </div>
             </div>
         </div>
