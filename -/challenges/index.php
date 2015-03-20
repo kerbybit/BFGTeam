@@ -54,15 +54,16 @@
         
         <div class="container">
             <?php getFeed('http://bfgteamchallenges.blogspot.com/feeds/posts/default?alt=rss'); ?>
+            <h1 style="cursor:pointer;" onclick="window.open('http://bfgteamchallenges.blogspot.com/')">older posts</h1>
         </div>
             
         <div class="container home-break"></div>
             
             
-        <div class="container footer">
+        <div class="footer parallax">
             <div class="container footer-text">
                 <strong>&#169; BFGTeam<br>
-                <div>&#169; kerbybit</div><br></strong>
+                &#169; kerbybit<br></strong>
             </div>
         </div>
             
@@ -74,6 +75,7 @@
         <!-- Bootstrap core JavaScript -->
         <!-- Placed at the end of the document so the pages load faster -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="../js/parallax.js"></script>
         <script src="../js/bootstrap.min.js"></script>
         <script src="../js/docs.min.js"></script>
         <script src="../js/stickynav.js"></script>

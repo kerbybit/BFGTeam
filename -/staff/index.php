@@ -66,7 +66,7 @@
                 <div>
                     <div class="staff-title"><div class="staff-title-text"><strong>Regent</strong></div></div><br><br>
                     <div class="staff-member">
-                        <div class="staff-img-head" style="background-image:url('http://www.plancke.nl/mcface.php?size=100&player=Ecolsson');"></div>
+                        <div class="staff-img" style="background-image:url('./staff-images/matt.png');"></div>
                         <div class="staff-member-text">Ecolsson</div>
                         <div class="staff-member-disc">
                             <?php
@@ -175,12 +175,15 @@
         </div>
             
         
+          
             
             
-        <div class="container footer">
+            
+            
+        <div class="footer parallax">
             <div class="container footer-text">
                 <strong>&#169; BFGTeam<br>
-                <div>&#169; kerbybit</div><br></strong>
+                &#169; kerbybit<br></strong>
             </div>
         </div>
         

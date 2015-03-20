@@ -52,10 +52,13 @@
         </div>
             
             
-        <div class="container footer">
+        
+            
+            
+        <div class="footer parallax">
             <div class="container footer-text">
                 <strong>&#169; BFGTeam<br>
-                <div>&#169; kerbybit</div><br></strong>
+                &#169; kerbybit<br></strong>
             </div>
         </div>
         
@@ -65,6 +68,7 @@
         <!-- Bootstrap core JavaScript -->
         <!-- Placed at the end of the document so the pages load faster -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="../js/parallax.js"></script>
         <script src="../js/bootstrap.min.js"></script>
         <script src="../js/docs.min.js"></script>
         <script src="../js/stickynav.js"></script>

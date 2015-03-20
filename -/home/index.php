@@ -63,7 +63,7 @@
             
         <div class="container">
             <div class="container col-md-4">
-                <button type="button" data-toggle="modal" data-target="#myModal" class="home-button"><img src="../images/icon-info.png" width="100px"></button>
+                <a href="../about"><img src="../images/icon-info.png" width="100px"></a>
                 <br class="hidden-xs hidden-sm">
                 <strong>About</strong>
                 <br class="hidden-xs hidden-sm">
@@ -74,7 +74,7 @@
             </div>
             <div class="container home-break hidden-md hidden-lg"></div>
             <div class="container col-md-4">
-                <a onclick="window.open('http://hypixel.net/threads/29418/')" style="cursor:pointer;"><img src="../images/icon-forums.png" width="100px"></a>
+                <a style="cursor:pointer;" onclick="window.open('http://hypixel.net/threads/29418/')"><img src="../images/icon-forums.png" width="100px"></a>
                 <br class="hidden-xs hidden-sm">
                 <strong>Forums</strong>
                 <br class="hidden-xs hidden-sm">
@@ -101,30 +101,14 @@
         <div class="container home-break"></div>
             
             
-        <div class="container footer">
+        
+            
+            
+        <div class="footer parallax">
             <div class="container footer-text">
                 <strong>&#169; BFGTeam<br>
-                <div>&#169; kerbybit</div><br></strong>
+                &#169; kerbybit<br></strong>
             </div>
-        </div>
-
-            
-        <!--about modal-->
-        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="myModalLabel">About</h4>
-              </div>
-              <div class="modal-body">
-                <h1>About the guild</h1>
-                Eventually, a description of the guild and what we stand for will go here. Right now, we are reworking a lot of what we do as a guild so we can't really put anything here yet.
-              <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
         </div>
         
     
@@ -133,6 +117,7 @@
         <!-- Bootstrap core JavaScript -->
         <!-- Placed at the end of the document so the pages load faster -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="../js/parallax.js"></script>
         <script src="../js/bootstrap.min.js"></script>
         <script src="../js/docs.min.js"></script>
         <script src="../js/slideshow.js"></script>
